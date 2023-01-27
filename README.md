@@ -7,35 +7,35 @@ The Odin Project: https://www.theodinproject.com/paths/foundations/courses/found
 Fundação Bradesco: https://www.ev.org.br/ <br>
 Digital Innovation One: https://www.dio.me/ <br>
 Tim Tec: https://cursos.timtec.com.br/course/desenvolvimento-web-com-angularjs/intro <br>
-Busuu: https://www.busuu.com/pt/login?fragment=%2Fwelcome%2Fchoose-experience <br>
+Loiane Training: https://loiane.training/curso/angular <br>
+Udemy: https://www.udemy.com/courses/development/web-development/?sort=newest <br>
 
-GUIAS
+GUIAS <br>
 Dinheiro com Canva: https://jobfeminino.com/ganhar-dinheiro-com-o-canva/ <br>
 Guia de TI: https://guiadeti.com.br/ <br>
-https://windows87.github.io/pt/
-https://maramsaiharsha.netlify.app/
-https://loiane.training/curso/angular
-https://jornadadodev.com.br/posts/angularjs/angular-2-e-o-futuro-do-frontend
-https://www.udemy.com/courses/development/web-development/?sort=newest
-https://xd.adobe.com/ideas/?sdid=61PM7WSH&mv=social&mv2=ownsoc-org
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript
-https://artskydj.github.io/jsPDF/docs/jsPDF.html#rect jsPDF
+Portfólio Exemplo: https://windows87.github.io/pt/ <br>
+Portfólio Exemplo: https://maramsaiharsha.netlify.app/ <br>
+Jornada do Dev: https://jornadadodev.com.br/posts/angularjs/angular-2-e-o-futuro-do-frontend <br>
+XD Adobe: https://xd.adobe.com/ideas/?sdid=61PM7WSH&mv=social&mv2=ownsoc-org <br>
+Documentação JS: https://developer.mozilla.org/en-US/docs/Learn/JavaScript <br>
+Documentação jsPDF: https://artskydj.github.io/jsPDF/docs/jsPDF.html#rect jsPDF <br>
 
-IDIOMAS
-https://app.kultivi.com/
-https://manybooks.net/search-book?field_genre%5B14%5D=14
+IDIOMAS <br>
+Kultivi: https://app.kultivi.com/ <br>
+Busuu: https://www.busuu.com/pt/login?fragment=%2Fwelcome%2Fchoose-experience <br>
+Many Books: https://manybooks.net/search-book?field_genre%5B14%5D=14 <br>
 
-UX DESIGN
-https://dribbble.com/
-https://www.behance.net/
-https://pages.squarespace.com/growwithgoogle
-https://www.tongfangsun.xyz/design
-https://www.nicolaspellegrino.com/
-http://pennybanks.com/
-https://www.wix.com/blog/creative/2020/06/ux-portfolio-examples
-https://www.themuse.com/advice/want-people-to-accept-your-linkedin-requests-use-these-10-templates
-https://design.google/library/good-design/
-https://webflow.com/
+UX DESIGN <br>
+Dribbble: https://dribbble.com/ <br>
+Behance: https://www.behance.net/ <br>
+Square Space: https://pages.squarespace.com/growwithgoogle <br>
+Portfólio Exemplo: https://www.tongfangsun.xyz/design <br>
+Portfólio Exemplo: https://www.nicolaspellegrino.com/ <br>
+Portfólio Exemplo: http://pennybanks.com/ <br>
+Wix Portfólios: https://www.wix.com/blog/creative/2020/06/ux-portfolio-examples <br>
+https://www.themuse.com/advice/want-people-to-accept-your-linkedin-requests-use-these-10-templates <br>
+https://design.google/library/good-design/ <br>
+https://webflow.com/ <br>
 
 CORES
 https://colors.muz.li/
