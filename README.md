@@ -1,17 +1,17 @@
 # Links
 
 CURSOS <br>
-https://on.fiap.com.br/index.php
-https://www.coursera.org/learn/fundamentos-do-design-da-experiencia-do-usuario-ux/home/week/1
-https://www.theodinproject.com/paths/foundations/courses/foundations
-https://www.ev.org.br/
-https://www.dio.me/
-https://cursos.timtec.com.br/course/desenvolvimento-web-com-angularjs/intro
-https://www.busuu.com/pt/login?fragment=%2Fwelcome%2Fchoose-experience
+Fiap: https://on.fiap.com.br/index.php <br>
+Coursera: https://www.coursera.org/learn/fundamentos-do-design-da-experiencia-do-usuario-ux/home/week/1 <br>
+The Odin Project: https://www.theodinproject.com/paths/foundations/courses/foundations <br>
+Fundação Bradesco: https://www.ev.org.br/ <br>
+Digital Innovation One: https://www.dio.me/ <br>
+Tim Tec: https://cursos.timtec.com.br/course/desenvolvimento-web-com-angularjs/intro <br>
+Busuu: https://www.busuu.com/pt/login?fragment=%2Fwelcome%2Fchoose-experience <br>
 
 GUIAS
-https://jobfeminino.com/ganhar-dinheiro-com-o-canva/
-https://guiadeti.com.br/
+Dinheiro com Canva: https://jobfeminino.com/ganhar-dinheiro-com-o-canva/ <br>
+Guia de TI: https://guiadeti.com.br/ <br>
 https://windows87.github.io/pt/
 https://maramsaiharsha.netlify.app/
 https://loiane.training/curso/angular
