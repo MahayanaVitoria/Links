@@ -19,6 +19,7 @@ Jornada do Dev: https://jornadadodev.com.br/posts/angularjs/angular-2-e-o-futuro
 XD Adobe: https://xd.adobe.com/ideas/?sdid=61PM7WSH&mv=social&mv2=ownsoc-org <br>
 Documentação JS: https://developer.mozilla.org/en-US/docs/Learn/JavaScript <br>
 Documentação jsPDF: https://artskydj.github.io/jsPDF/docs/jsPDF.html#rect jsPDF <br>
+Documentação React.js: https://code.visualstudio.com/docs/nodejs/nodejs-tutorial
 
 IDIOMAS <br>
 Kultivi: https://app.kultivi.com/ <br>
