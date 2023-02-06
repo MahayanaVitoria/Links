@@ -16,11 +16,20 @@ Guia de TI: https://guiadeti.com.br/ <br>
 Portfólio Exemplo: https://windows87.github.io/pt/ <br>
 Portfólio Exemplo: https://maramsaiharsha.netlify.app/ <br>
 Jornada do Dev: https://jornadadodev.com.br/posts/angularjs/angular-2-e-o-futuro-do-frontend <br>
+Publicação de projetos: https://vercel.com/mahayanavitoria/organo-alura <br>
 XD Adobe: https://xd.adobe.com/ideas/?sdid=61PM7WSH&mv=social&mv2=ownsoc-org <br>
 Documentação JS: https://developer.mozilla.org/en-US/docs/Learn/JavaScript <br>
 Documentação jsPDF: https://artskydj.github.io/jsPDF/docs/jsPDF.html#rect jsPDF <br>
-Documentação React.js/Node.js: https://code.visualstudio.com/docs/nodejs/nodejs-tutorial <br>
 Documentação Eventos: https://developer.mozilla.org/pt-BR/docs/Web/Events <br>
+Documentação React.js/Node.js: https://code.visualstudio.com/docs/nodejs/nodejs-tutorial <br>
+Documentação React: https://reactjs.org/docs/hooks-effect.html <br>
+Documentação React Bootstrap: https://react-bootstrap-v4.netlify.app/components/forms/ <br>
+Documentação GraphQL: https://graphql.org/code/ <br>
+Documentação Bootstrap: https://getbootstrap.com/docs/4.4/utilities/flex/ <br>
+Documentação Ant Design: https://ant.design/components/icon <br>
+Documentação Formik: https://formik.org/docs/examples/with-material-ui <br>
+Documentação Eslint: https://eslint.org/docs/latest/use/getting-started <br>
+Documentação Lodash: https://lodash.com/docs/4.17.15#cloneDeep <br>
 
 IDIOMAS <br>
 Kultivi: https://app.kultivi.com/ <br>
